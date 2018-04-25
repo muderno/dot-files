@@ -1,4 +1,4 @@
-#Those are my configuration files!
+# Those are my configuration files!
 
 I've been using linux for a while and I ways need to get some functionality that I have on my setup on some other place. Here I can just clone them and use.
 
