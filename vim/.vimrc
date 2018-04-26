@@ -1,6 +1,5 @@
-" @Author:Vinicius R. Barros
-" @email: vinicius@muderno.net
-"
+" @Author:Vinicius Barros
+" Twitter: @muderno
 " Feel free to use and modify!
 "
 "
